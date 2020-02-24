@@ -1,0 +1,25 @@
+{
+  "name": "testing-vision-api",
+  "version": "1.0.0",
+  "description": "Testing Vision API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undead85/testing-vision-api.git"
+  },
+  "author": "angel meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undead85/testing-vision-api/issues"
+  },
+  "homepage": "https://github.com/undead85/testing-vision-api#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
